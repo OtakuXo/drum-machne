@@ -1,6 +1,5 @@
 import { useState } from "react";
 import data from "./data";
-// import Audio from "./component/Audio";
 import Drumpad from "./component/Drumpad";
 
 function App(props) {
